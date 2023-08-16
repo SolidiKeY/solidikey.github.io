@@ -6,5 +6,5 @@ draft: false
 
 ## Introduction
 
-SolidiKey was designed to verify functional properties of Solidity Smart Contract using KeY.
-Each function in Solidity smart contract has its own specification with pre and pos conditions.
+SolidiKey was designed to verify the functional properties of Solidity Smart Contract using KeY.
+Each function in Solidity smart contract has its specification with pre and post-conditions.
