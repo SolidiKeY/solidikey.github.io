@@ -14,8 +14,6 @@ After you clone your git repository, you will need to recursively download their
 git submodule update --init
 ```
 
-You will also need to run this command when running Github workspaces too.
-
 ### Install Hugo
 
 You can see how to install Hugo on its [website](https://gohugo.io/installation/).
