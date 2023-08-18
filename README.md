@@ -8,7 +8,7 @@
 
 ### After cloning your repository
 
-After you clone your git repository, you will need to recusively download their submodules by running this command:
+After you clone your git repository, you will need to recursively download their submodules by running this command:
 
 ```bash
 git submodule update --init
