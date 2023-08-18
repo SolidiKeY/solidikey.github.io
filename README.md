@@ -6,6 +6,16 @@
 
 ## Build this website
 
+### After cloning your repository
+
+After you clone your git repository, you will need to recusively download their submodules by running this command:
+
+```bash
+git submodule update --init
+```
+
+You will also need to run this command when running Github workspaces too.
+
 ### Install Hugo
 
 You can see how to install Hugo on its [website](https://gohugo.io/installation/).
