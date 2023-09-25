@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Hugo server",
+            "program": "hugo",
+            "args": ["server", "-D"],
+        },
+        
+    ]
+}
