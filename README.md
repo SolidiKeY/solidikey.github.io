@@ -2,7 +2,7 @@
 
 ## Website link
 
-[SolidiKey GitHub Pages](https://solidikey.github.io/SolidiKeY/)
+[SolidiKey GitHub Pages](https://solidikey.github.io)
 
 ## Build this website
 
