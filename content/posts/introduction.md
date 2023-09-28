@@ -50,6 +50,6 @@ This viewpoint brings the requirements that can be verified closer to the user's
 The SolidiKeY project will be driven by the following people:
 
 - [Wolfgang Ahrendt](https://www.cse.chalmers.se/~ahrendt/), Chalmers University of Technology, Gothenburg, Sweden
-- [Richard Bubel](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_51008.en.jsp), Technical University Darmstadt, Darmstadt, Germany
 - [Guilherme Horta Alvares Da Silva](https://www.chalmers.se/en/persons/alvares/), Chalmers University of Technology, Gothenburg, Sweden
+- [Richard Bubel](https://www.informatik.tu-darmstadt.de/se/gruppenmitglieder/groupmembers_detailseite_51008.en.jsp), Technical University Darmstadt, Darmstadt, Germany
 
